@@ -92,3 +92,4 @@ if st.button("Mulai Scraping"):
             st.write(art['content'][:500] + "...")
 
 #syauqi
+#titit
