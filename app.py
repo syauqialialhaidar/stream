@@ -90,3 +90,5 @@ if st.button("Mulai Scraping"):
             st.write(f"**Tanggal:** {art['date']}")
             st.write(f"[Baca Artikel]({art['link']})")
             st.write(art['content'][:500] + "...")
+
+#syauqi
