@@ -94,3 +94,4 @@ if st.button("Mulai Scraping"):
 #syauqi
 #titit
 #kontol e gede nmn kek watu
+#ppp
