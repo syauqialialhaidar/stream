@@ -91,5 +91,4 @@ if st.button("Mulai Scraping"):
             st.write(f"[Baca Artikel]({art['link']})")
             st.write(art['content'][:500] + "...")
 
-#syauqi
 #ppp
